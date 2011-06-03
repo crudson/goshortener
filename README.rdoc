@@ -1,3 +1,6 @@
+= This fork
+  Adds stats querying and optional full response hashes for all queries.
+
 = GoShortener http://dl.dropbox.com/u/2735646/still-maintained.png 
 
 Uses Google URL shortener API service to shorten/expand given URLs.
